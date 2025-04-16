@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hey there, I'm @sajidali-sk404<br>🔍 Passionate about crafting impactful web applications<br>🌱 Currently diving deep into Full Stack Web Development<br>🤝 Always open to collaborating on open-source projects and building apps that solve real-world problems<br>📫 Reach out to me on GitHub or Instagram — I'm just a message away!<br>😄 Pronouns: coder<br>⚡ Fun Fact: I debug better with coffee ☕ and late-night vibes 🌙
+👋 Hey there, I'm @sajidali-sk404<br>🔍 Passionate about crafting impactful web applications<br>🌱 Currently diving deep into Full Stack Web Development<br>🤝 Always open to collaborating on open-source projects and building apps that solve real-world problems<br>📫 Reach out to me on GitHub or LinkedIn — I'm just a message away!<br>😄 Pronouns: coder<br>⚡ Fun Fact: I debug better with coffee ☕ and late-night vibes 🌙
 
 
 ## 🌐 Socials:
