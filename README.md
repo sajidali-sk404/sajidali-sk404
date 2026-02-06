@@ -11,7 +11,7 @@
 
 ![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=sajidali-sk404&show_icons=true&theme=dark&count_private=true)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=sajidali-sk404&theme=dark)
+![GitHub Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=sajidali-sk404&theme=nord)
 
 ![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sajidali-sk404&layout=compact&theme=dark)
 
