@@ -15,6 +15,9 @@
 
 ![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sajidali-sk404&layout=compact&theme=dark)
 
+## 📈 Contribution Graph
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sajidali-sk404&theme=react-dark)
 
 
 ---
